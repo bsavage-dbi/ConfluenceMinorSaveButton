@@ -10,6 +10,6 @@
     }
   ],
   "permissions": [
-    "tabs","https://confluence.dev.bbc.co.uk/pages/editpage.action?pageId=*"
+    "tabs","*://*/pages/editpage.action?pageId=*"
   ]
 }
