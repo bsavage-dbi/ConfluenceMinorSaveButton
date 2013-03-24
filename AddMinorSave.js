@@ -1,6 +1,3 @@
-//sumTxt.clr.fdt is the title
-//summary_REDBGWTV-xxx is the div to modify
-
 
 deepText(document.getElementById("main"));
 
